@@ -5,11 +5,16 @@ In October 2022 I decided to take a career break in order to study IT and switch
 What really drives me is learning how modern software is organized and how it really works under the hood of the user's interface.
 
 ## Skills
-- Programming languages: Java, Python, SQL.
 - Creativity
 - Analytical thinking
 - Communication
 - Project management
+
+## Technology
+- **Languages:** Java, Python (Flask), C#, C, SQL
+- **Databases:** SQL Oracle Developer, SQLite, relational databases
+- **Frontend:** HTML, CSS (Bootstrap), JavaScript 
+- **Tools:** Visual Studio Code, Eclipse
 
 ## My projects
 Check out some of my noteworthy projects:
