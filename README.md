@@ -13,7 +13,8 @@ What really drives me is learning how modern software is organized and how it re
 
 ## My projects
 Check out some of my noteworthy projects:
-1. [The Family Clinic](https://github.com/jhwozniak/Harvard-CS50/tree/main/project) 
+1. [The Family Clinic](https://github.com/jhwozniak/Harvard-CS50/tree/main/project) was a final project in Harvard CS50 "Introduction to Computer Science" course that I took in 2023.  The Family Clinic is a web app facilitating work of an imigainary health clinic. It works in patients' as well as in doctors' mode. Tech: Python (Flask, Jinja), SQLite, HTML, CSS, Javascript, Bootstrap. Online presentation of the project can be accessed here: https://www.youtube.com/watch?v=vnTr_Kie560  
+2. 
  
 
 
