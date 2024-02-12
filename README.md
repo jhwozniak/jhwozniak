@@ -13,7 +13,7 @@ What really drives me is learning how modern software is organized and how it re
 
 ## My projects
 Check out some of my noteworthy projects:
-1. [The Family Clinic]() 
+1. [The Family Clinic](https://github.com/jhwozniak/Harvard-CS50/tree/main/project) 
  
 
 
