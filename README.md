@@ -1,4 +1,4 @@
-# Welcome to me personal code repository
+# Welcome to my personal code repository!
 ## About me
 I am an experienced banker, who for the past 18 years have been managing complex investment finance projects for large corporate clients. 
 In October 2022 I decided to take a career break in order to study software development and combine it with my knowledge of finance. 
