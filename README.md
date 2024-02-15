@@ -1,6 +1,6 @@
 # Welcome to my personal code repository!
 ## About me
-I am an experienced banker, who for the past 18 years have been managing complex investment finance projects for large corporate clients. 
+I am an experienced banker, who for the past 18 years has been managing complex investment finance projects for large corporate clients. 
 In October 2022 I decided to take a career break in order to study software development and combine it with my knowledge of finance. 
 I have a strong interest in back-end, system design and databases. What really drives me is learning how modern software is organized and how it works under the hood of the user's interface. 
 
