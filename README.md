@@ -26,7 +26,8 @@ Check out some of my noteworthy projects:
 a sequence of AGCT molecules arranged into a particular shape. Then, it searches for a matching profile in csv database of DNA samples.   
 - [Homepage](https://github.com/jhwozniak/Harvard-CS50/tree/main/homepage) is a simple homepage prepared with the use using HTML, CSS, JavaScript. It contains several sub-pages and has some dynamic features like buttons, navigation bar and accordion made with the use of Bootstrap and JavaScript.
 - [Speller](https://github.com/jhwozniak/Harvard-CS50/tree/main/speller) is a program in C that spell-checks a text file, using a hash table. It required structuring an efficient hash table, dealing with pointers and avoiding memory leaks.
-- [Filter](https://github.com/jhwozniak/Harvard-CS50/tree/main/filter-less) is a desktop app written in C which required working out several algorithms to modify image files.- 
+- [Filter](https://github.com/jhwozniak/Harvard-CS50/tree/main/filter-less) is a desktop app written in C which required working out several algorithms to modify image files.
+- [Yellow fish](https://github.com/jhwozniak/Harvard-CS50/tree/main/scratch) was a simple and short game in Scratch. Just upload the file on [this page](https://scratch.mit.edu/) and enjoy!
   
 ### Polish-Japanese Academy of Information Technology (PJATK) postgraduate studies "Information systems, software and databases":
 - [Flower Shop](https://github.com/jhwozniak/PJATK/tree/main/WDP4_WJ_PD4135/src/zad3) is a desktop app in Java which facilitates purchase of flowers in a flower shop. It is a good practice in objected-oriented programming as it required me to structure classes using inheritance and to implement methods with the use of lists.
