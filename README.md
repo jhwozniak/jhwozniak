@@ -11,13 +11,17 @@ I have a strong interest in back-end, system design and databases. What really d
 - Project management
 
 ## Technology
-- **Languages:** Java, Python (Flask), C#, C, SQL
-- **Databases:** SQL Oracle Developer, SQLite, relational databases
+- **Languages:** Java, Python (Flask, Django), SQL, C#, C, 
+- **Databases:** SQL Oracle Developer, MS SQL Management Studio, SQLite, relational databases
 - **Frontend:** HTML, CSS (Bootstrap), JavaScript 
-- **Tools:** Visual Studio Code, Eclipse
+- **Tools:** Visual Studio Code, Eclipse, Linux/Bash, Power BI, Excel
 
 ## My projects
 Check out some of my noteworthy projects:
+### Harvard CS50 "Web programming with Python and JavaScript":
+- [Search](https://github.com/jhwozniak/Harvard-CS50web/tree/main/search) mirrors front-end for Google Search, Google Image Search, and Google Advanced Search. It was based around analysis of Google's HTTP GET parameters passed in the URL at each search. Created withe the use of HTML & CSS for styling a'la Google. You can watch project's presentation here: https://youtu.be/g3Tbqesk6rs 
+- [Wiki](https://github.com/jhwozniak/Harvard-CS50web/tree/main/wiki) is a Python web app based on Django framework based on Wikipedia. It is an online encyclopedia, where you can browse, edit and create new encyclopedia entries. You can watch the presentation video here: https://youtu.be/1_u68TMo_6A
+-   
 ### Harvard CS50 "Introduction to Computer Science":
 - [Finance](https://github.com/jhwozniak/Harvard-CS50/tree/main/finance) is a web app via which you can manage portfolios of stocks. This tool allowed users to check real stocks’ actual prices and portfolios’ values, it also let them buy and sell stocks by querying for stocks’ prices. The app was coded in Python (Flask, Jinja), HTML, CSS, JavaScript. It also uses Bootstrap for boosting the interface, SQLite for a database and API of IEX Cloud for checking actual stock prices.
 - [The Family Clinic](https://github.com/jhwozniak/Harvard-CS50/tree/main/project) is a web app facilitating work of an imaginary health clinic. It works in patients' as well as in doctors' mode. Tech: Python (Flask, Jinja), SQLite (relational databse), HTML, CSS, Javascript, Bootstrap. Online presentation of the project can be accessed here: https://www.youtube.com/watch?v=vnTr_Kie560
