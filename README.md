@@ -18,7 +18,7 @@ I have a strong interest in back-end, system design and databases. What really d
 
 ## My projects
 Check out some of my noteworthy projects:
-### Data-Analytics:
+### Data:
 - [FX](https://github.com/jhwozniak/Data-Analytics/tree/main/FX) is a Python script, which fetches currency quotations using API of National Bank of Poland, stores full- and user-filtered data in CSV files, displays basic statistics and downloads data daily at 12:00pm. Works with Pythons' statistics and schedule libriaries.
 - [Seven-day-average](https://github.com/jhwozniak/Data-Analytics/tree/main/seven-day-average) is an app in Python which is using a New York Times API repository of live, cumulative COVID data to calculate new daily cases, create a 7-day average, and compare this week’s average to the previous week. During implementation it was interesting to learn how to read CSV files and how to practically use lists and dictionaries in Python.
 - [DNA](https://github.com/jhwozniak/Data-Analytics/tree/main/dna) is a desktop app in Python, which identifies a person based on their DNA. It reads a file with suspect's DNA sample in form of
