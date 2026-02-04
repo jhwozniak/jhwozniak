@@ -1,6 +1,8 @@
 # Welcome to my personal code repository!
 ## My projects
 Check out some of my noteworthy projects:
+### BI:
+[portfolio website](https://www.jakubwozniak.pl/)
 ### Data:
 - [Collibra-explorer](https://github.com/jhwozniak/collibra-explorer) is a pet project developed while working for Collibra Data Intelligence Platform (www.collibra.com) It helps vizualize the metadata model of assets and their relationships. Helpful in navigating millions of ingested assets and discovering their topology. Uses Python plotly library and Collibra's REST APIs.  
 - [FX](https://github.com/jhwozniak/Data-Analytics/tree/main/FX) is a **Python** script, which fetches currency quotations using API of National Bank of Poland, stores full- and user-filtered data in CSV files, displays basic statistics and downloads data daily at 12:00pm. Works with Pythons' statistics and schedule libriaries.
